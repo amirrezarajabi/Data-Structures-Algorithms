@@ -1,4 +1,4 @@
-# [Data-Structures-Algorithms](https://github.com/amirrezarajabi/Data-Structures-Algorithms/)
+# [Data Structures](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures)
 
 * ## [Dynamic Array](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Dynamic-Array)
 
