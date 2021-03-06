@@ -12,5 +12,9 @@
     *   [Singly Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Linked-List/SinglyLinkedList.java)
 
     *   [complexity](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Linked-List/complexity.png)
+  * ### Stack
+    *    complexity
+  * ### Queue
+    *    complexity
 
 * ## Algorithms
