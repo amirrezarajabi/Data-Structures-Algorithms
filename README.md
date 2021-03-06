@@ -2,6 +2,10 @@
 
 [Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Linked-List)
 
+*   [Doubly Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Linked-List/DoublyLinkedList.java)
+
+*   [Singly Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Linked-List/SinglyLinkedList.java)
+
 *   [complexity](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Linked-List/complexity.png)
 
 [Dynamic Array](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Dynamic-Array)
