@@ -8,6 +8,8 @@
   * ### [Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/tree/master/Data-Structures/Linked-List)
 
     *   [Doubly Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Linked-List/DoublyLinkedList.java)
+     * w
+     * ww
 
     *   [Singly Linked List](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Linked-List/SinglyLinkedList.java)
 
