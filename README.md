@@ -17,7 +17,7 @@
     *   [application to check valid brackets "round, square, curly brackets"](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Stack/App.java)
     
     *   [complexity](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Stack/complexity.png)
-  * ### Queue
-    *    complexity
+  * ### [Queue](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Queue)
+    *    [complexity](https://github.com/amirrezarajabi/Data-Structures-Algorithms/blob/master/Data-Structures/Queue/complexity.png)
 
 * ## Algorithms
